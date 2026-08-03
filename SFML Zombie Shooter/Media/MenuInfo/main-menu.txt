@@ -1,0 +1,12 @@
+Media/Textures/metalslab.png
+Media/Textures/zombie-logo.png
+Media/Fonts/SegoeMarker.ttf
+100 100 100
+255 255 255
+255 255 100
+255 0 0
+50 200
+RIGHT_JUSTIFIED
+Play Game
+Credits
+Exit

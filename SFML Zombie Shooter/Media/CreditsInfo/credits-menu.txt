@@ -1,0 +1,23 @@
+Media/Textures/company-logo.png
+Media/Fonts/SegoeMarker.ttf
+255 255 255
+CENTRE_JUSTIFIED
+Company Name
+Gorebag Games
+Lead Programmer
+Jack Gore
+Lead Artist
+Ryan Mackey
+Programmer's
+Jude McGrath
+Jamie Goldring
+Artist's
+Harry Creighton
+Luke Lyons
+Acknowledgement's
+Italic Pig
+
+
+
+
+

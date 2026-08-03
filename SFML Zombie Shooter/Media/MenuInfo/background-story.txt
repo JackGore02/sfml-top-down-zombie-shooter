@@ -1,0 +1,15 @@
+Media/Fonts/SegoeMarker.ttf
+255 255 255
+CENTRE_JUSTIFIED
+Scientists working in the mysterious Area 51 were experimenting with different virus strains when one day an experiment 
+went wrong and caused a large explosion destroying almost the entire facility. The explosion transformed everyone in the
+immediate vicinity into the living dead, zombies thirsty for blood who quickly rampaged through America, killing and
+turning people into zombies. You are a soldier who was sent on a mission to cull the zombie threat that went wrong and
+ended up leaving your squad dead. With everyone around you either dead or turned, and the zombie horde slowly moving in, you have one goal. 
+Survive.
+
+
+
+
+
+
