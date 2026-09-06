@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Bundled SFML dependencies required to build and run the project
+!/ThirdParty/SFML-2.5.1/lib/Win32/
+!/ThirdParty/SFML-2.5.1/lib/Win32/*.lib
+!/ThirdParty/SFML-2.5.1/lib/x64/
+!/ThirdParty/SFML-2.5.1/lib/x64/*.lib
+!/ThirdParty/SFML-2.5.1/bin/
+!/ThirdParty/SFML-2.5.1/bin/Win32/
+!/ThirdParty/SFML-2.5.1/bin/Win32/*.dll
+!/ThirdParty/SFML-2.5.1/bin/x64/
+!/ThirdParty/SFML-2.5.1/bin/x64/*.dll

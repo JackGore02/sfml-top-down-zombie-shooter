@@ -7,7 +7,7 @@
 using namespace std;
 
 SFML_Application::SFML_Application(int windowWidth, int windowHeight)
-	: m_window(sf::VideoMode(windowWidth, windowHeight), "SFML Application", sf::Style::Fullscreen)
+	: m_window(sf::VideoMode(windowWidth, windowHeight), "SFML Application", sf::Style::Default)
 	, m_initialised(true)
 	, m_screenWidth(windowWidth)
 	, m_screenHeight(windowHeight)
