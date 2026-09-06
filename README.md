@@ -6,7 +6,7 @@ The player can move and aim independently, switch between four weapons, and figh
 
 ## Features
 
-- Trackpad- and mouse-friendly pointer aiming
+- Trackpad and mouse-friendly pointer aiming
 - Movement relative to the player's facing direction
 - Flashlight, knife, pistol, and rifle weapon modes
 - Animated idle, walking, melee, shooting, and enemy attack states
@@ -104,9 +104,9 @@ SFML Zombie Shooter.sln
 |   |-- SFML_StoryScreen.*               # Scrolling story screen
 |   |-- SFML_PauseMenu.*                 # Pause menu
 |   |-- SFML_CreditScreen.*              # Credits screen
-|   `-- Media/                            # Textures, HUD assets, fonts, and sprite data
+|   `-- Media/                           # Textures, HUD assets, fonts, and sprite data
 `-- ThirdParty/
-    `-- SFML-2.5.1/                       # Bundled SFML development files
+    `-- SFML-2.5.1/                      # Bundled SFML development files
 ```
 
 ## How it works
